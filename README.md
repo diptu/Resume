@@ -17,11 +17,7 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 
 ## Preview
 
-### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
-
-### MacFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
+![alt tag](https://drive.google.com/file/d/1jdkBeh38FsWCDPhQ_Aw7o2p5FLGgtKsU/view?usp=sharing)
 
 ## Dependencies
 
